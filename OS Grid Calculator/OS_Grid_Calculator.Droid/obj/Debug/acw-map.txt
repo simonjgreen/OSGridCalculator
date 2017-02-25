@@ -1,0 +1,4 @@
+OS_Grid_Calculator.Droid.MainActivity, OS_Grid_Calculator.Droid;md5822b1ec26482c6a82837bc8b7be2c4f9.MainActivity
+OS_Grid_Calculator.Droid.MainActivity, OS_Grid_Calculator.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5822b1ec26482c6a82837bc8b7be2c4f9.MainActivity
+OS_Grid_Calculator.Droid.MainActivity;md5822b1ec26482c6a82837bc8b7be2c4f9.MainActivity
+os_grid_calculator.droid.MainActivity;md5822b1ec26482c6a82837bc8b7be2c4f9.MainActivity

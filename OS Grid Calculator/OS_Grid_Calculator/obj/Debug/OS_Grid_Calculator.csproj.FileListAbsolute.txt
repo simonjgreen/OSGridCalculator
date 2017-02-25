@@ -1,0 +1,7 @@
+C:\Users\Simon Green\Documents\Visual Studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\bin\Debug\OS_Grid_Calculator.dll
+C:\Users\Simon Green\Documents\Visual Studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\bin\Debug\OS_Grid_Calculator.pdb
+C:\Users\Simon Green\Documents\Visual Studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\obj\Debug\OS_Grid_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Simon Green\Documents\Visual Studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\obj\Debug\OS_Grid_Calculator.dll
+C:\Users\Simon Green\Documents\Visual Studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\obj\Debug\OS_Grid_Calculator.pdb
+C:\Users\Simon Green\documents\visual studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\obj\Debug\OS_Grid_Calculator.dll.mdb
+C:\Users\Simon Green\documents\visual studio 2013\Projects\OS Grid Calculator\OS Grid Calculator\OS_Grid_Calculator\bin\Debug\OS_Grid_Calculator.dll.mdb
